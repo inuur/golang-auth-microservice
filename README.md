@@ -1,4 +1,9 @@
 # Authentication microservice on golang
+
+## Start application
+
+To start application run `docker-compose up` command in the root folder 
+
 ## Endpoints
 
 The service supports the following endpoints:
